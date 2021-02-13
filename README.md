@@ -10,7 +10,8 @@ Aplicação desenvolvida utilizando php/doctrine e bootstrap para estilização
 - no diretório raiz, executar **composer install** para baixar todas as dependências
 - **php -S localhost:8080 -t public** para rodar a aplicação e acessar pelo navegador
 - para realizar login na aplicação usar os seguintes dados: (email: rodrigo@teste.com | senha: 321654) 
-  **OU** criar um usuário por meio do comando vendor/bin/doctrine dbal:run-sql 'insert into usuarios (email, senha) values ('nome@email.com', 'senhaaqui')
+
+- é possível ainda **criar** um usuário por meio do comando **vendor/bin/doctrine dbal:run-sql 'insert into usuarios (email, senha) values ('email', 'senha')'**
   documentação doctrine: https://www.doctrine-project.org/projects/doctrine-orm/en/2.7/reference/tools.html
 
 **Funcionalidades:**
