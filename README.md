@@ -1,9 +1,9 @@
 # Crud de Produtos
 Aplicação desenvolvida utilizando php/doctrine e bootstrap para estilização
 
-![](https://github.com/razevedocosta/crud-produtos-php-mvc/blob/master/src/assets/login.png)
+![](https://github.com/razevedocosta/crud-produtos-php-mvc/blob/master/assets/login.png)
 
-![](https://github.com/razevedocosta/crud-produtos-php-mvc/blob/master/src/assets/home.png)
+![](https://github.com/razevedocosta/crud-produtos-php-mvc/blob/master/assets/home.png)
 
 **Para executar o projeto**
 - fazer um clone do projeto para o seu computador
